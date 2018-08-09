@@ -1,2 +1,2 @@
 # micasa
-My public sharing projects
+My public sharing projects - new approaches
